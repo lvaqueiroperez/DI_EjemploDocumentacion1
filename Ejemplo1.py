@@ -1,6 +1,3 @@
-
-
-
 def faiAlgo(numero, letra, cadea):
     """Función que imprime os parametros e devolta unha cadea.
 
